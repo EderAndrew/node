@@ -1,0 +1,30 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "Exercicio json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EderAndrew/node.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "html5",
+    "modulo",
+    "export",
+    "json"
+  ],
+  "author": "Eder Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EderAndrew/node/issues"
+  },
+  "homepage": "https://github.com/EderAndrew/node#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
